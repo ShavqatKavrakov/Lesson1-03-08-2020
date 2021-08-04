@@ -1,0 +1,16 @@
+D:\C#\problems1\bin\Debug\net5.0\problems1.exe
+D:\C#\problems1\bin\Debug\net5.0\problems1.deps.json
+D:\C#\problems1\bin\Debug\net5.0\problems1.runtimeconfig.json
+D:\C#\problems1\bin\Debug\net5.0\problems1.runtimeconfig.dev.json
+D:\C#\problems1\bin\Debug\net5.0\problems1.dll
+D:\C#\problems1\bin\Debug\net5.0\ref\problems1.dll
+D:\C#\problems1\bin\Debug\net5.0\problems1.pdb
+D:\C#\problems1\obj\Debug\net5.0\problems1.csproj.AssemblyReference.cache
+D:\C#\problems1\obj\Debug\net5.0\problems1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\problems1\obj\Debug\net5.0\problems1.AssemblyInfoInputs.cache
+D:\C#\problems1\obj\Debug\net5.0\problems1.AssemblyInfo.cs
+D:\C#\problems1\obj\Debug\net5.0\problems1.csproj.CoreCompileInputs.cache
+D:\C#\problems1\obj\Debug\net5.0\problems1.dll
+D:\C#\problems1\obj\Debug\net5.0\ref\problems1.dll
+D:\C#\problems1\obj\Debug\net5.0\problems1.pdb
+D:\C#\problems1\obj\Debug\net5.0\problems1.genruntimeconfig.cache
