@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Shavkat\\.nuget\\packages\\": {}
+    "C:\\Users\\ALIF ACADEMY\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\problems1\\problems1.csproj",
+      "projectUniqueName": "C:\\Kavrakov Shavqat\\C#\\Change-Lasson3-03-08-2020\\Lesson1-03-08-2020\\problems1.csproj",
       "projectName": "problems1",
-      "projectPath": "D:\\C#\\problems1\\problems1.csproj",
-      "packagesPath": "C:\\Users\\Shavkat\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\problems1\\obj\\",
+      "projectPath": "C:\\Kavrakov Shavqat\\C#\\Change-Lasson3-03-08-2020\\Lesson1-03-08-2020\\problems1.csproj",
+      "packagesPath": "C:\\Users\\ALIF ACADEMY\\.nuget\\packages\\",
+      "outputPath": "C:\\Kavrakov Shavqat\\C#\\Change-Lasson3-03-08-2020\\Lesson1-03-08-2020\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Shavkat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ALIF ACADEMY\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
